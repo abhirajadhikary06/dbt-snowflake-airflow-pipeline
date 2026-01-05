@@ -1,2 +1,4 @@
 dbt-core
 dbt-snowflake
+astronomer-cosmos
+apache-airflow-providers-snowflake
